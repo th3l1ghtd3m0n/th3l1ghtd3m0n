@@ -1,4 +1,4 @@
-![thumb](./thumbnail.jpg)
+![thumb](./thumbnail.png)
 # Hello, I'm Lucas, a rising hacker =)
 
 Here are some personal projects I do to improve my skills.
