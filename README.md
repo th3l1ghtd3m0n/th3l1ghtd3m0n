@@ -17,7 +17,6 @@
     <img alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="40" />
     <img alt="gradle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" height="30" width="40" />
     <img alt="android" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" width="40" />
-    <img alt="kotlin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain.svg" height="30" width="40" />
     <img alt="flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" width="40" />
     <img alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" height="30" width="40" />
     <img alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="40" />
