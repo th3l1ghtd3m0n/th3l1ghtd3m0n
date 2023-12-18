@@ -6,7 +6,4 @@
   <p align="center">
     Here are some <strong>personal projects/audits</strong> I do to improve my skills.
   </p>
-  <div align="center">
-    <img alt="api-cert" src="assets/api-penetration-testing-certificate-of-completion.png" height="70" width="70" />
-  </div>
 </div>
