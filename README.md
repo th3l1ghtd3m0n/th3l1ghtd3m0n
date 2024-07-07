@@ -4,6 +4,6 @@
     Hello, I'm a securty review
   </h1>
   <p align="center">
-    Here are some <strong>personal projects/audits</strong> I do to improve my skills.
+    Here are some <strong>personal projects</strong> I do to improve my skills.
   </p>
 </div>
